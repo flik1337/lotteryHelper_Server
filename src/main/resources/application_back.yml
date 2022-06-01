@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/lottery?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2b8&useSSL=false
-    username: root
-    password: lovegfm99
+    username: xxxxx
+    password: xxxxx
     driver-class-name: com.mysql.cj.jdbc.Driver
   redis:
     host: 127.0.0.1 # Redis????? 1.117.84.9
@@ -27,10 +27,10 @@ remote:
     wechat: https://api.weixin.qq.com
 
 wechat:
-  appId: wxc5cf8c53c95a6390
-  secret: 9592ccece36e898f43249043735fd1db
+  appId: xxxxx
+  secret: xxxxxx
 
 qiniu:
-  AccessKey: nMED_cospE1W9CYhYBTwP-GI0150Gh8Mhm0vq_Zf
-  SecretKey: 0fJs1ntpZygmAkF1gughSU6XXYHJRG0DwEG6_bsv
-  bucketName: flik1337-blog
+  AccessKey: xxxxx
+  SecretKey: xxxxxxxxxx
+  bucketName: xxxxxxxxx
